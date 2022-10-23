@@ -3,10 +3,10 @@ package ui;
 import model.CharacterModel;
 
 
-public class WorlDom {
+public class SaveByCleanse {
     private CharacterModel kimoto;
 
-    public WorlDom() {
+    public SaveByCleanse() {
         init();
         kimoto.add();
     }
